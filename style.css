@@ -36,10 +36,7 @@
         display:flex;
         justify-content:flex-start;
         align-items:center;}
-        <!--header é a parte do cabeçalho do site, é o topo da página-->
-        <section class="banner1">
-           <img class="escola image" src="banner4.png" alt="banner da escola">
-           </section>
+       
         .titulo_site
         {padding:50px;
         
