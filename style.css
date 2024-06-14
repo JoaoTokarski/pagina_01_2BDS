@@ -41,10 +41,10 @@
            <img class="escola image" src="banner4.png" alt="banner da escola">
            </section>
         .titulo_site
-        {padding:50px;
+        {padding: 80px;px;
         
         text-align:center;
-        width:80%;
+        width:50%;
         font:30px;}
 
     .sociais{
